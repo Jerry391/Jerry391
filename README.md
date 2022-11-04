@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://www.zhihu.com/people/chang-shou-xiao-jian-ge
-
 <a href="https://Jerry391.github.io">blog</a> · <a href="https://scholar.google.com/citations?user=iShvJlEAAAAJ&hl=zh-CN">Google Scholar</a> · <a href="https://www.zhihu.com/people/chang-shou-xiao-jian-ge">zhihu</a>
 
 #### Recently learning
