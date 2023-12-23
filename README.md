@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 <div style="display: flex">
 
+<img src="https://img.shields.io/badge/Scanpy-orange?style=for-the-badge&logo=pypi" style="margin-right: 0.25rem"/>
+
 <img src="https://img.shields.io/badge/pytorch-lightblue?style=for-the-badge&logo=pytorch" style="margin-right: 0.25rem"/>
 
 <img src="https://img.shields.io/badge/PyG-purple?style=for-the-badge&logo=PyG" style="margin-right: 0.25rem"/>
-
-<img src="https://img.shields.io/badge/Scanpy-orange?style=for-the-badge&logo=pypi" style="margin-right: 0.25rem"/>
 
 <img src="https://img.shields.io/badge/Seurat-lightyellow?style=for-the-badge&logo=compilerexplorer" style="margin-right: 0.25rem"/>
 
