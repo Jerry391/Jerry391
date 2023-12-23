@@ -14,19 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://Jerry391.github.io">blog</a> · <a href="https://scholar.google.com/citations?user=iShvJlEAAAAJ&hl=zh-CN">Google Scholar</a> · <a href="https://www.zhihu.com/people/chang-shou-xiao-jian-ge">zhihu</a>
+<a href="https://Jerry391.github.io">Homepage</a> · <a href="https://scholar.google.com/citations?user=iShvJlEAAAAJ&hl=zh-CN">Google Scholar</a> · <a href="https://twitter.com/CJerry391">Twitter</a>
 
-#### Recently learning
+#### Usage Codes
 
 <div style="display: flex">
 
-<img src="https://img.shields.io/badge/pytorch-blue?style=for-the-badge" style="margin-right: 0.25rem"/>
+<img src="https://img.shields.io/badge/pytorch-lightblue?style=for-the-badge&logo=pytorch" style="margin-right: 0.25rem"/>
 
-<img src="https://img.shields.io/badge/-javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" style="margin-right: 0.25rem"/>
+<img src="https://img.shields.io/badge/PyG-purple?style=for-the-badge&logo=PyG" style="margin-right: 0.25rem"/>
+
+<img src="https://img.shields.io/badge/Scanpy-orange?style=for-the-badge&logo=pypi" style="margin-right: 0.25rem"/>
+
+<img src="https://img.shields.io/badge/Seurat-lightyellow?style=for-the-badge&logo=compilerexplorer" style="margin-right: 0.25rem"/>
 
 <img src="https://img.shields.io/badge/vue-brightgreen.svg?style=for-the-badge&logo=vue.js&logoColor=white" style="margin-right: 0.25rem"/>
 
-<img src="https://img.shields.io/badge/GO-red?style=for-the-badge" style="margin-right: 0.25rem"/>
+
 
 </div>
 
