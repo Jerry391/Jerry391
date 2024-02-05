@@ -1,5 +1,7 @@
-### Jerry
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jerry391.jerry391) 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Jerry391.Jerry391) 
+
+### Jerry Chen
+
 <!--
 **Jerry/Jerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
