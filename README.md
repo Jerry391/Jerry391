@@ -1,4 +1,7 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Jerry391.Jerry391) 
+<a href="https://Jerry391.github.io" target="_blank"><img src="https://img.shields.io/badge/Homepage-white?logo=googlehome&logoColor=%234285F4" alt="Homepage"></a>
+<a href="https://scholar.google.com/citations?user=iShvJlEAAAAJ&hl=zh-CN" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-white?logo=googlescholar&logoColor=%234285F4" alt="Google Scholar"></a>
+<a href="https://www.linkedin.com/in/xchen279/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-white?logo=linkedin&logoColor=%234285F4" alt="LinkedIn"></a>
 
 ### Jerry Chen
 
@@ -15,11 +18,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<a href="https://Jerry391.github.io">Homepage</a> · <a href="https://scholar.google.com/citations?user=iShvJlEAAAAJ&hl=zh-CN">Google Scholar</a> · <a href="https://twitter.com/CJerry391">Twitter</a>
+
 
 #### Usage Codes
-
+-->
 <div style="display: flex">
 
 <img src="https://img.shields.io/badge/Scanpy-orange?style=for-the-badge&logo=pypi" style="margin-right: 0.25rem"/>
