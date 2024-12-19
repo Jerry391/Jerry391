@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/pytorch-lightblue?style=for-the-badge&logo=pytorch" style="margin-right: 0.25rem"/>
 
-<img src="https://img.shields.io/badge/PyG-purple?style=for-the-badge&logo=PyG" style="margin-right: 0.25rem"/>
+<!--<img src="https://img.shields.io/badge/PyG-purple?style=for-the-badge&logo=PyG" style="margin-right: 0.25rem"/>-->
 
 <img src="https://img.shields.io/badge/Seurat-lightyellow?style=for-the-badge&logo=compilerexplorer" style="margin-right: 0.25rem"/>
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Jerry391&show_icons=true&count_private=true&hide_border=true" align="left" style="margin-right: 0.5rem;" />
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerry391&hide_border=true&layout=compact" align="left" />
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jerry391&hide_border=true&layout=compact" align="left" />-->
 
 
 
